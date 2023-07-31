@@ -7,37 +7,37 @@
 }
 
 .nav-link.active {
-    color: white
+    color: white;
 }
 
 .nav-link {
-    color: #afaaaa
+    color: #afaaaa;
 }
 
 .nav-link:hover {
-    color: white
+    color: white;
 }
 
 .nav-link:focus {
-    color: white
+    color: white;
 }
 
 .btn-gross {
     background: var(--primary);
-    color: var(--white)
+    color: var(--white);
 }
 
 .btn-gross:hover {
     background: var(--black);
-    color: var(--white)
+    color: var(--white);
 }
 
 #messageAlert {
-    max-width: 500px
+    max-width: 500px;
 }
 
 .dropdown-menu[data-bs-popper] {
-    left: -40px
+    left: -40px;
 }
 
 .table-secondary {
